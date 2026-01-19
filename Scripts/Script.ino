@@ -5,8 +5,8 @@
 #include <Preferences.h> 
 
 // WiFi!
-const char* ST_SSID     = "Vory";
-const char* ST_PASSWORD = "Pazout2604";
+const char* ST_SSID     = "wifi";
+const char* ST_PASSWORD = "pass";
 
 WebServer server(80);
 Preferences preferences; // Storage instance
