@@ -24,10 +24,10 @@ In total, the script has about 650 lines, but the website, functions,... I'm onl
 
 ## How it works?
 
-- **Clap control:** 1x clap toggles the LED strip, 2x claps toggle the ring, 3x claps change the ring mode.
-- **Physical button:** Click toggles the strip, Double click changes brightness, Triple click swaps ring modes. Long press turns the whole system On/Off.
-- **Web UI:** Change 12 ring modes (Matrix, Fire, Rainbow, etc.), 3 strip effects, and brightness.
-- **Status LED:** Shows WiFi status and gives color feedback (Green/Red/Blue) when you change settings.
+- **Clap control:** 1x clap toggles the LED strip!! 2x claps toggle the ring and 3x claps change the ring mode
+- **Physical button:** 1x click toggles the LED strip, 2x click changes brightness (strip), 3x click swaps ring modes. Long press turns the system On/Off
+- **Web UI:** Change 12 ring modes (Matrix, Fire, Rainbow, etc.), 3 strip effects, and brightness
+- **Status LED:** Shows WiFi status and gives color feedback (Green/Red/Blue) when you change settings
 - **Auto Demo:** Randomly cycles through all ring effects every 10 seconds....
 
 ### Libraries:
