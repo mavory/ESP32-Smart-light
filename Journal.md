@@ -289,3 +289,70 @@ I also exported the file for ESP32 and prepared everything in a **folder** for u
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODU4NTQsInB1ciI6ImJsb2JfaWQifX0=--bc03faba489f86cf0f38dec090cf7b399cb1a9af/image.png)
   
 
+## 1/19/2026 8 PM - GitHub editing  
+
+_Time spent: 0.8h_  
+
+After exporting I started uploading **files** to the repo and also started writing **README****.md** which is very **important**. I also had to make a journal file where **everything** is described.
+Next I made a video of how it works and uploaded it to **YouTube**...
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODU4OTUsInB1ciI6ImJsb2JfaWQifX0=--57f488f1c6a4ae42c50509ee329b9b6d70c1fee8/image.png)
+  
+
+## 1/19/2026 9 PM - ESP32 Smart Light it is finished!!!  
+
+_Time spent: 1.3h_  
+
+A system that is powered by **ESP32** and controls 2 LED **strips** and a neopixel ring using clapping and the **web**!
+![20260119_123537](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODU5NzgsInB1ciI6ImJsb2JfaWQifX0=--c9b38a11db31bdc5af419bdeaba3335d14b79ab8/20260119_123537.jpg)
+
+
+## Why did I do this?
+
+I wanted to create a **system** that could be controlled using my new **Big sound module**, so I started thinking and came up with this interesting **idea**!
+
+## Features
+
+- Web interface
+- It has a buzzer and an RGB LED for notification
+- You can clap to turn the lights on/off
+- You have a neopixel ring that you can set up to 10+ mods on
+
+## Scripts
+
+In total, the script has about **650 lines**, but the website, functions,...It´s only in this **script**. So just upload it via **Arduino IDE** to ESP32 and everything should work!!
+
+### Home page:
+![Snímek obrazovky 2026-01-19 213811](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODU5ODAsInB1ciI6ImJsb2JfaWQifX0=--c43b0c771e7f2dca70dd5b7e856e717b1fe2f25b/Sn%C3%ADmek%20obrazovky%202026-01-19%20213811.png)
+
+
+## How it works?
+
+- **Clap control:** 1x clap toggles the LED strip!! 2x claps toggle the ring and 3x claps change the ring mode
+- **Physical button:** 1x click toggles the LED strip, 2x click changes brightness (strip), 3x click swaps ring modes. Long press turns the system On/Off
+- **Web UI:** Change 12 ring modes (Matrix, Fire, Rainbow, etc.), 3 strip effects, and brightness
+- **Status LED:** Shows WiFi status and gives color feedback (Green/Red/Blue) when you change settings
+- **Auto Demo:** Randomly cycles through all ring effects every 10 seconds....
+
+### Libraries:
+
+```
+- Adafruit_NeoPixel.h
+- OneButton.h
+- WiFi.h
+- WebServer.h
+- Preferences.h
+```
+
+
+## 3D models
+
+Here is a view of the top and bottom of the case:
+![Snímek obrazovky 2026-01-18 170256](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODU5ODIsInB1ciI6ImJsb2JfaWQifX0=--deab59b1ecf8b3bd95deade9f81aff43589bc46b/Sn%C3%ADmek%20obrazovky%202026-01-18%20170256.png)
+![Snímek obrazovky 2026-01-18 170338](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODU5ODEsInB1ciI6ImJsb2JfaWQifX0=--d023d192fa1e720c52cb5eb1656402528660ffb7/Sn%C3%ADmek%20obrazovky%202026-01-18%20170338.png)
+
+
+## Wiring Diagram
+
+![image](https://blueprint.hackclub.com/user-attachments/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ODU4MzQsInB1ciI6ImJsb2JfaWQifX0=--cf0010f35ee36b1f048a7a5dac775518477c9f7d/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyMDAwLDIwMDBdLCJjb252ZXJ0Ijoid2VicCIsInNhdmVyIjp7InF1YWxpdHkiOjgwLCJzdHJpcCI6dHJ1ZX19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--0f85faa91c373105a0f317054e965c1f47e93a37/image.png)
+  
+
