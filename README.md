@@ -55,4 +55,4 @@ Here is a view of the top and bottom of the case:
 
 ## There is the final video of how it works!
 
-_Here is a youtube video where you can see how it works:_ [Link](https://youtu.be/)
+_Here is a youtube video where you can see how it works:_ [Link](https://youtu.be/ElwXBvMZj_E)
