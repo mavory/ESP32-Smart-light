@@ -17,7 +17,7 @@ I wanted to create a system that could be controlled using my new Big sound modu
 
 ## Scripts
 
-In total, the script has about 650 lines, but the website, functions,... I'm only in this script. So just upload it via Arduino IDE to ESP32 and everything should work!!
+In total, the script has about 650 lines, but the website, functions,... It´s only in this script. So just upload it via Arduino IDE to ESP32 and everything should work!!
 
 ### Home page:
 ![image](https://blueprint.hackclub.com/user-attachments/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ODU3NzEsInB1ciI6ImJsb2JfaWQifX0=--f3e7d57e276f627ac5d69fc8cdc1b8edb24b478e/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyMDAwLDIwMDBdLCJjb252ZXJ0Ijoid2VicCIsInNhdmVyIjp7InF1YWxpdHkiOjgwLCJzdHJpcCI6dHJ1ZX19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--0f85faa91c373105a0f317054e965c1f47e93a37/Sn%C3%ADmek%20obrazovky%202026-01-19%20163954.png)
