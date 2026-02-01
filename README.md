@@ -53,6 +53,8 @@ Here is a view of the top and bottom of the case:
 
 ![image](https://blueprint.hackclub.com/user-attachments/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ODU4MzQsInB1ciI6ImJsb2JfaWQifX0=--cf0010f35ee36b1f048a7a5dac775518477c9f7d/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyMDAwLDIwMDBdLCJjb252ZXJ0Ijoid2VicCIsInNhdmVyIjp7InF1YWxpdHkiOjgwLCJzdHJpcCI6dHJ1ZX19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--0f85faa91c373105a0f317054e965c1f47e93a37/image.png)
 
+![image](https://github.com/mavory/ESP32-Smart-light/blob/main/Photos/circuit_image.png?raw=true)
+
 ## There is the final video of how it works!
 
 _Here is a youtube video where you can see how it works:_ [Link](https://youtu.be/ElwXBvMZj_E)
