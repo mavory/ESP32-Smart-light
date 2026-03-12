@@ -43,7 +43,7 @@ In total, the script has about 650 lines, but the website, functions,... It´s o
 
 ## 3D models
 
-https://www.tinkercad.com/things/eFkPVTd0Ne4-lamp
+https://www.tinkercad.com/things/eFkPVTd0Ne4-lamp?sharecode=UNrX2Xw5hONzTC9dqX5OnXKPG04cPSQhPtq6QzThrkk
 
 Here is a view of the top and bottom of the case:
 
