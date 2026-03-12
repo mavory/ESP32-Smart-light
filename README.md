@@ -43,6 +43,8 @@ In total, the script has about 650 lines, but the website, functions,... It´s o
 
 ## 3D models
 
+https://www.tinkercad.com/things/eFkPVTd0Ne4-lamp
+
 Here is a view of the top and bottom of the case:
 
 ![image](https://github.com/mavory/ESP32-Smart-light/blob/main/Photos/Sn%C3%ADmek%20obrazovky%202026-01-18%20170256.png?raw=true)
